@@ -4,7 +4,7 @@
   "description": "Template for the Learning Journey Building side-by-side extensions on SAP BTP",
   "author": "m.haug@sap.com",
   "license": "SAP SAMPLE CODE LICENSE",
-  "repository": "https://github.com/SAP-samples/sap-learning-extension-suite",
+  "repository": "https://github.com/mittalsaurabh14/BTP-Certi",
   "engines": {
     "node": ">=14"
   },
